@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "652791569411",
+    "firebase_url": "https://sgnbyfirebase.firebaseio.com",
+    "project_id": "sgnbyfirebase",
+    "storage_bucket": "sgnbyfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652791569411:android:021727142b34c629",
+        "android_client_info": {
+          "package_name": "com.kdblue.googlesigninfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652791569411-1qaj95tb2h7525jruil4e4563bks1ikg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNkJCDTfMEl9L1SNLHi4hmZkTiRv4R7Ww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
